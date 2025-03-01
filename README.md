@@ -1,4 +1,4 @@
-# python-.-theme-code
+# python--theme-code
 : ["lightblue", "skyblue"],
         "Snowy": ["white", "lightcyan"],
         "Tropical": ["lightgreen", "palegreen"]
